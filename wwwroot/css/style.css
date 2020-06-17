@@ -1,0 +1,21 @@
+.post{
+    box-shadow: 3px 3px 3px rgba(83, 83, 90, 0.747);
+}
+
+.wall{
+    text-shadow:2px 2px 3px rgba(124, 124, 136, 0.747);
+}
+
+.message{
+    text-shadow: 2px 2px 3px rgba(144, 144, 167, 0.747);
+}
+
+.comment{
+    text-shadow: 1px 1px 3px rgba(144, 144, 167, 0.747);
+}
+
+.board{
+    max-height: 550px;
+    overflow-y: scroll;
+
+}
