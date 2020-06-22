@@ -1,2 +1,1 @@
-# TheWall
-C#_Entity_asp.Net Full-Stack
+Board for users to login & post messages/comments
